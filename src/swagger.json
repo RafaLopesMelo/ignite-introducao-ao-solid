@@ -1,8 +1,8 @@
 {
     "openapi": "3.0.0",
     "info": {
-        "title": "RentalX Documentation",
-        "description": "This is an API Rent",
+        "title": "DESAFIO 02 - IGNITE",
+        "description": "This is an node API",
         "version": "1.0.0",
         "contact": {
             "email": "rafaelmelo.programmer@gmail.com"
